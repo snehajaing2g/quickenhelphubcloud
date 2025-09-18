@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://capitalonecard-helpcenter.pages.dev/sitemap.xml
+Sitemap: hhttps://quickenhelphub.pages.dev/sitemap.xml
