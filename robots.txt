@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: hhttps://quickenhelphub.pages.dev/sitemap.xml
+Sitemap: https://quickenhelphub.pages.dev/sitemap.xml
